@@ -1,4 +1,4 @@
-# TP2 - Hibernate 
+# TP - Hibernate 2
 
 ## Description du Projet
 
